@@ -17,4 +17,4 @@ transposed_matrix = list(map(list, zip(*matrix)))
 
 print('\nThe transposed version of the previous matrix is:\n')
 for i in transposed_matrix:
-  print(i)
+    print(i)
